@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+	font-size: 35px;
+	font-family: sans-serif;
+    background: #2c3e50;
+    color: white;
+    margin-top: 3%;
+}
+.logo{
+    width: auto;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5%;
+}
+.button{
+    margin-top: 5%;
+    display: inline-block;
+    padding: 2% 4%;
+    font-family: fantasy;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: rgb(80, 74, 158);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
